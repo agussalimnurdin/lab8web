@@ -3,7 +3,9 @@
 Create database dengan nama latihan1 , kemudian membuat tabel dan menambahkan data
 Membuat Tabel
 
-![gambar 1](screenshot(1)/ss1.png)
+![gambar1](screenshot (1).png)
+
+Screenshot (1).png
 
 ## Menambahkan Data
 Menambahkan data pada database
