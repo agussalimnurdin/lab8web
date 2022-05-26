@@ -3,11 +3,8 @@
 Create database dengan nama latihan1 , kemudian membuat tabel dan menambahkan data
 Membuat Tabel
 
-![gambar 1](screenshot/screenshot%20(1).png)
+![Screenshot (1)](https://user-images.githubusercontent.com/101470912/170478719-c9bbe640-fe8e-404f-a865-ebca87e60fba.png)
 
-https://github.com/agussalimnurdin/lab8web/blob/main/ss/Screenshot%20(1).png
-
-![gambar 1](/ss/Screenshot (1).png)
 
 ## Menambahkan Data
 Menambahkan data pada database
